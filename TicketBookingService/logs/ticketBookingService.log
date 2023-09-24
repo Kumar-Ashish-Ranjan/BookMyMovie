@@ -1,0 +1,58 @@
+2023-09-24T12:23:54.713+0530 INFO HV000001: Hibernate Validator 8.0.1.Final
+2023-09-24T12:23:54.734+0530 INFO Starting TicketBookingServiceApplicationTests using Java 17.0.5 with PID 18796 (started by ashis in D:\ActionArea\MyDevelopmentWorkspace\MyBackEndDesk\LowLevelDesign\BookMyMovie\BookMyMovieProject\BookMyMovie\TicketBookingService)
+2023-09-24T12:23:54.737+0530 DEBUG Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-09-24T12:23:54.744+0530 INFO The following 1 profile is active: "dev"
+2023-09-24T12:23:55.489+0530 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-24T12:23:55.515+0530 INFO Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2023-09-24T12:23:56.202+0530 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-24T12:23:56.259+0530 INFO HHH000412: Hibernate ORM core version 6.2.9.Final
+2023-09-24T12:23:56.261+0530 INFO HHH000406: Using bytecode reflection optimizer
+2023-09-24T12:23:56.471+0530 INFO HHH000021: Bytecode provider name : bytebuddy
+2023-09-24T12:23:56.626+0530 INFO No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-09-24T12:23:56.654+0530 INFO HikariPool-1 - Starting...
+2023-09-24T12:23:57.638+0530 INFO HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@29188050
+2023-09-24T12:23:57.640+0530 INFO HikariPool-1 - Start completed.
+2023-09-24T12:23:57.963+0530 INFO HHH000021: Bytecode provider name : bytebuddy
+2023-09-24T12:23:58.173+0530 INFO HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-24T12:23:58.177+0530 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-24T12:23:58.357+0530 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-24T12:23:58.799+0530 WARN 
+
+Using generated security password: 1432d572-594c-40e8-bc5c-9929fc8e91d9
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-09-24T12:23:58.930+0530 INFO Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@32068aef, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@8ab231, org.springframework.security.web.context.SecurityContextHolderFilter@75a6bd06, org.springframework.security.web.header.HeaderWriterFilter@68feca3a, org.springframework.security.web.csrf.CsrfFilter@796613b7, org.springframework.security.web.authentication.logout.LogoutFilter@6173863f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@66851aa5, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4930213b, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@5b3a8bea, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@613a608e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4d4bac56, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@75df4b1d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ba0dcba, org.springframework.security.web.access.ExceptionTranslationFilter@76ee7301, org.springframework.security.web.access.intercept.AuthorizationFilter@4603c412]
+2023-09-24T12:23:58.993+0530 INFO Started TicketBookingServiceApplicationTests in 4.767 seconds (process running for 6.53)
+2023-09-24T12:23:59.934+0530 INFO Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-24T12:23:59.940+0530 INFO HikariPool-1 - Shutdown initiated...
+2023-09-24T12:24:00.237+0530 INFO HikariPool-1 - Shutdown completed.
+2023-09-24T12:24:39.888+0530 INFO HV000001: Hibernate Validator 8.0.1.Final
+2023-09-24T12:24:39.909+0530 INFO Starting TicketBookingServiceApplicationTests using Java 17.0.5 with PID 16944 (started by ashis in D:\ActionArea\MyDevelopmentWorkspace\MyBackEndDesk\LowLevelDesign\BookMyMovie\BookMyMovieProject\BookMyMovie\TicketBookingService)
+2023-09-24T12:24:39.912+0530 DEBUG Running with Spring Boot v3.1.4, Spring v6.0.12
+2023-09-24T12:24:39.915+0530 INFO The following 1 profile is active: "dev"
+2023-09-24T12:24:40.622+0530 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-09-24T12:24:40.650+0530 INFO Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2023-09-24T12:24:41.176+0530 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-09-24T12:24:41.253+0530 INFO HHH000412: Hibernate ORM core version 6.2.9.Final
+2023-09-24T12:24:41.256+0530 INFO HHH000406: Using bytecode reflection optimizer
+2023-09-24T12:24:41.469+0530 INFO HHH000021: Bytecode provider name : bytebuddy
+2023-09-24T12:24:41.626+0530 INFO No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-09-24T12:24:41.651+0530 INFO HikariPool-1 - Starting...
+2023-09-24T12:24:42.629+0530 INFO HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5bf523e3
+2023-09-24T12:24:42.633+0530 INFO HikariPool-1 - Start completed.
+2023-09-24T12:24:42.937+0530 INFO HHH000021: Bytecode provider name : bytebuddy
+2023-09-24T12:24:43.186+0530 INFO HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-09-24T12:24:43.194+0530 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-09-24T12:24:43.397+0530 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-09-24T12:24:43.851+0530 WARN 
+
+Using generated security password: 4f987ea6-8cc7-4ba8-addb-694c616b4b50
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-09-24T12:24:44.015+0530 INFO Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5b3a8bea, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6ba0dcba, org.springframework.security.web.context.SecurityContextHolderFilter@4d4bac56, org.springframework.security.web.header.HeaderWriterFilter@fa689db, org.springframework.security.web.csrf.CsrfFilter@44df834c, org.springframework.security.web.authentication.logout.LogoutFilter@e08d871, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5169db2f, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@25e24908, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6d7772d3, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@575cfec1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3696d12d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@430db481, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@38394e76, org.springframework.security.web.access.ExceptionTranslationFilter@68feca3a, org.springframework.security.web.access.intercept.AuthorizationFilter@49654a35]
+2023-09-24T12:24:44.109+0530 INFO Started TicketBookingServiceApplicationTests in 4.697 seconds (process running for 6.142)
+2023-09-24T12:24:45.258+0530 INFO Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-09-24T12:24:45.261+0530 INFO HikariPool-1 - Shutdown initiated...
+2023-09-24T12:24:45.708+0530 INFO HikariPool-1 - Shutdown completed.
